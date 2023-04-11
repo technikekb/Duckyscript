@@ -1,6 +1,8 @@
 # Duckyscript
 
 This repo contains my own Ducky scripts and related PowerShell scripts. These scripts are created for Flipper Zero Bad USB.
+
+
 PowerShell:
 * Create-PwdDictAttack.ps1 - Creates a Ducky script that can attack a Windows logon screen.
 * Escape-DeadKeys.ps1 - Changes a Ducky script to escape dead keys (~ ` ' ") om some keyboards.
