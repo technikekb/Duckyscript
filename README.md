@@ -5,7 +5,7 @@ This repo contains my own Ducky scripts and related PowerShell scripts. These sc
 
 PowerShell:
 * Create-PwdDictAttack.ps1 - Creates a Ducky script that can try a list of passwords, for example against the Windows logon screen. Delay and wait are configurable.
-* Escape-DeadKeys.ps1 - Changes a Ducky script to escape dead keys (~ ` ' ") om some keyboards.
+* Escape-DeadKeys.ps1 - Changes a Ducky script to escape dead keys (~ ` ' ") on some keyboards.
 * Generate-PinCodes.ps1 - Generates 4 number pin codes, easy to remember pin codes first.
 
 Ducky script:
